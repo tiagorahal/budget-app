@@ -12,7 +12,7 @@
     <p>Total: <span>$<%= @category.total %></span></p>
   </div>
 </section>
-<section>
+<section class='expenses_section'>
   <% @expenses.each do |expense| %>
     <div class='expense_div'>
       <p class='name'><%= expense.name.capitalize %></p>
@@ -22,7 +22,7 @@
   <% end %>
 </section>
 <div class='new_category_div'>
-  <%= link_to '/expenses/new' do %>
+  <%= link_to expenses_new_path(category_id: @category.id) do %>
     <p>NEW EXPENSE</p>
   <% end %>
 </div>
