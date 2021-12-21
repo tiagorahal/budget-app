@@ -1,7 +1,3 @@
 class UsersController < ApplicationController
-  def splash_page
-  end
-
-  def test
-  end
+  def splash_page; end
 end
