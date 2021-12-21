@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Rails Capstone - Transaction App - KeepTrack
+# Rails Capstone - Budget App
 
 > This app goal is to let it's user keep track of its transactions.
-# [Video Presentation Link](https://www.loom.com/share/80463a04aca04dc9910bfef8dd73eaf6)
+# [Video Presentation Link](--------)
 
 ![screenshot](./app_screenshot.png)
 ## Built With
