@@ -3,7 +3,7 @@
 # Rails Capstone - Budget App
 
 > This app goal is to let it's user keep track of its transactions.
-# [Video Presentation Link](--------)
+# [Video Presentation Link](https://www.loom.com/share/0885f4ac1a73466e9b68a692e2fdd351)
 
 ![screenshot](./app_screenshot.png)
 ## Built With
